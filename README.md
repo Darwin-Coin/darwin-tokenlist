@@ -13,6 +13,7 @@
    - Needs to respect the format at `example.json`.
  - Submissions with invalid chain address will be rejected.
  - Submissions with multiple tokens will be rejected. One PR per token.
+ - Sumbissions that include a token logo but not the token info, or viceversa, will be rejected.
  - PRs will be processed every 3-5 days.
 
 

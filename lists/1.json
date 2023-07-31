@@ -1,0 +1,26 @@
+{
+    "name": "Ethereum Token List",
+    "tokens": [
+      {
+        "address": "0x0000000000000000000000000000000000000000",
+        "decimals": 18,
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "logoURI": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/1/0x0000000000000000000000000000000000000000.png"
+      },
+      {
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18,
+        "name": "Wrapped Ethereum",
+        "symbol": "WETH",
+        "logoURI": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/1/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png"
+      },
+      {
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "decimals": 6,
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "logoURI": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/1/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
+      }
+    ]
+}
