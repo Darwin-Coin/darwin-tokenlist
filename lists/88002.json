@@ -6,28 +6,28 @@
         "decimals": 18,
         "name": "Proteus Nautilus Coin",
         "symbol": "PZBC",
-        "logoURI": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/88002/0x0000000000000000000000000000000000000000.png"
+        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/88002/0x0000000000000000000000000000000000000000.png"
       },
       {
         "address": "0x6024875E7A8DA2Ef25cc57D7925e393fE23aF299",
         "decimals": 18,
         "name": "Wrapped PZBC",
         "symbol": "WPZBC",
-        "logoURI": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/88002/0x6024875E7A8DA2Ef25cc57D7925e393fE23aF299.png"
+        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/88002/0x6024875E7A8DA2Ef25cc57D7925e393fE23aF299.png"
       },
       {
         "address": "0x7ce89408E2c3d7e2EAda6a6519fA564A54AA46B3",
         "decimals": 18,
         "name": "Tether USD",
         "symbol": "USDT",
-        "logoURI": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/88002/0x7ce89408E2c3d7e2EAda6a6519fA564A54AA46B3.png"
+        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/88002/0x7ce89408E2c3d7e2EAda6a6519fA564A54AA46B3.png"
       },
       {
         "address": "0x453B430d9aCbBDe1939965D9cD2A23a6431824F6",
         "decimals": 18,
         "name": "Darwin Protocol",
         "symbol": "DARWIN",
-        "logoURI": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/88002/0x453B430d9aCbBDe1939965D9cD2A23a6431824F6.png"
+        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/88002/0x453B430d9aCbBDe1939965D9cD2A23a6431824F6.png"
       }
     ]
 }

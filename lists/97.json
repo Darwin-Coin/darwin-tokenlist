@@ -6,28 +6,28 @@
         "decimals": 18,
         "name": "Testnet Binance Coin",
         "symbol": "tBNB",
-        "logoURI": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/97/0x0000000000000000000000000000000000000000.png"
+        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/97/0x0000000000000000000000000000000000000000.png"
       },
       {
         "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
         "decimals": 18,
         "name": "Wrapped BNB",
         "symbol": "WBNB",
-        "logoURI": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/97/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png"
+        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/97/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png"
       },
       {
         "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
         "decimals": 18,
         "name": "Binance USD",
         "symbol": "BUSD",
-        "logoURI": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/97/0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee.png"
+        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/97/0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee.png"
       },
       {
         "address": "0x616D9d4a8191f147b354A59558b6aa529498F1BA",
         "decimals": 18,
         "name": "Darwin Protocol",
         "symbol": "DARWIN",
-        "logoURI": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/97/0x616D9d4a8191f147b354A59558b6aa529498F1BA.png"
+        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/97/0x616D9d4a8191f147b354A59558b6aa529498F1BA.png"
       }
     ]
 }

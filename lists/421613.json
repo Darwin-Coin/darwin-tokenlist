@@ -6,14 +6,14 @@
         "decimals": 18,
         "name": "Arbitrum Goerli Coin",
         "symbol": "AGOR",
-        "logoURI": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/421613/0x0000000000000000000000000000000000000000.png"
+        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/421613/0x0000000000000000000000000000000000000000.png"
       },
       {
         "address": "0x8FB1E3fC51F3b789dED7557E680551d93Ea9d892",
         "decimals": 6,
         "name": "USD Coin",
         "symbol": "USDC",
-        "logoURI": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/421613/0x8FB1E3fC51F3b789dED7557E680551d93Ea9d892.png"
+        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/421613/0x8FB1E3fC51F3b789dED7557E680551d93Ea9d892.png"
       }
     ]
 }

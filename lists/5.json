@@ -6,7 +6,7 @@
         "decimals": 18,
         "name": "Goerli Ethereum",
         "symbol": "gETH",
-        "logoURI": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/5/0x0000000000000000000000000000000000000000.png"
+        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/5/0x0000000000000000000000000000000000000000.png"
       }
     ]
 }

@@ -6,7 +6,7 @@
         "decimals": 18,
         "name": "*Token Name*",
         "symbol": "*TOKENSYMBOL*",
-        "logoURI": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/*TokenChainId*/*0xTokenAddress*.png"
+        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/*TokenChainId*/*0xTokenAddress*.png"
       }
     ],
     "README": "Replace the decimals with your token's decimals, and all the info between '*'s with the proper info (without '*'s)."
