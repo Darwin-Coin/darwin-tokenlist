@@ -21,13 +21,6 @@
         "name": "Tether USD",
         "symbol": "USDT",
         "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/88002/0x7ce89408E2c3d7e2EAda6a6519fA564A54AA46B3.png"
-      },
-      {
-        "address": "0x453B430d9aCbBDe1939965D9cD2A23a6431824F6",
-        "decimals": 18,
-        "name": "Darwin Protocol",
-        "symbol": "DARWIN",
-        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/88002/0x453B430d9aCbBDe1939965D9cD2A23a6431824F6.png"
       }
     ]
 }
