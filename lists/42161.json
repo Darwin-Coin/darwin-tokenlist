@@ -2,11 +2,11 @@
     "name": "Arbitrum One Token List",
     "tokens": [
       {
-        "address": "0x876171C2EE2feB12a5742fAF2cFF4D80c107bb6B",
+        "address": "0x4689e89b57291F3170a4368fA43B1f779258aF91",
         "decimals": 18,
         "name": "Darwin Protocol",
         "symbol": "DARWIN",
-        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/42161/0x876171C2EE2feB12a5742fAF2cFF4D80c107bb6B.png"
+        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/42161/0x4689e89b57291F3170a4368fA43B1f779258aF91.png"
       },
       {
         "address": "0x0000000000000000000000000000000000000000",
