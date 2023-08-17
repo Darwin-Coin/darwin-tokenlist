@@ -25,8 +25,8 @@
       {
         "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
         "decimals": 6,
-        "name": "USD Coin",
-        "symbol": "USDC",
+        "name": "Bridged USDC",
+        "symbol": "USDC.e",
         "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/42161/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8.png"
       }
     ]
