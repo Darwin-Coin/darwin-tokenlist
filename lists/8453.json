@@ -1,0 +1,12 @@
+{
+    "name": "Base Token List",
+    "tokens": [
+      {
+        "address": "0x0000000000000000000000000000000000000000",
+        "decimals": 18,
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/42161/0x0000000000000000000000000000000000000000.png"
+      }
+    ]
+}
