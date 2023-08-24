@@ -14,6 +14,13 @@
         "name": "Wrapper Ether",
         "symbol": "WETH",
         "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/8453/0x4200000000000000000000000000000000000006.png"
+      },
+      {
+        "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+        "decimals": 18,
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/8453/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb.png"
       }
     ]
 }
