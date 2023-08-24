@@ -1,0 +1,19 @@
+{
+    "name": "Shibarium Token List",
+    "tokens": [
+      {
+        "address": "0x0000000000000000000000000000000000000000",
+        "decimals": 18,
+        "name": "Bone ShibaSwap",
+        "symbol": "BONE",
+        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/109/0x0000000000000000000000000000000000000000.png"
+      },
+      {
+        "address": "0x49B2d11442F088aADf30B932853F991cC9E38e9D",
+        "decimals": 18,
+        "name": "Wrapped BONE",
+        "symbol": "WBONE",
+        "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/109/0x49B2d11442F088aADf30B932853F991cC9E38e9D.png"
+      }
+    ]
+}
