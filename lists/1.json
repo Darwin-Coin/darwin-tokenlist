@@ -16,6 +16,13 @@
       "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/1/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png"
     },
     {
+      "name": "PROFIT",
+      "symbol": "PROFIT",
+      "address": "0xFa9C94C535D3424c4391D84B9a2eF8D739a444f0",
+      "decimals": 18,
+      "image": "https://raw.githubusercontent.com/Darwin-Coin/darwin-tokenlist/main/logos/1/0xFa9C94C535D3424c4391D84B9a2eF8D739a444f0.jpeg"
+    },
+    {
       "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
       "decimals": 6,
       "name": "USD Coin",
